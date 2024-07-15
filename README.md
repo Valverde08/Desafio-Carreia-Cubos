@@ -69,21 +69,27 @@ Assim como os métodos para string os métodos para arrays permitem uma interaç
 O que preciso melhorar:
 
 Soft skills:
+
 Minhas habilidades interpessoais são bem desenvolvidas e bem aceitas para trabalhos em grupo devido a minha experiência em trabalho ao público e equipes grandes multiculturais. Sou uma pessoa que muito atenciosa e que aprende com muita facilidade, muita facilidade em interagir com meus colegas e muito prestativo. Sempre busco em experiências atuais e futuras fazer o meu melhor deixando o meu trabalho como referência.  
 
 LIinkedIn:
+
 Sei o básico e preciso evouluir muito, na divulgação de minha experiências ideias e projetos. E isso sei que o curso da Cubos me permitirá crescer para alcançar os meus objetivos e ser uma pessoa e profissional melhor.
 
 Ética na tecnologia:
+
 Apesar de possuir muita experiência no mercado de trabalho em geral, sou muito inexperiente no setor da tecnologia, pois tive poucos projetos profissionais e um auxílio da cubos permitiria que eu seja um profissional qualificado e que não infringisse nenhuma lei ou termos técnicos que possam manchar a minha imagem profissional. 
 
 Gestão de tempo:
+
 Relacionado a gestão de tempo preciso me policiar e entender melhor meus horários mais produtivos, o que me torna mais ou menos produtivo para fazer um cronograma que permita o meu crescimento na área tecnológica e pessoal. 
 
 Git:
+
 Desde o começo do curso tive uma melhora imensa na utilização do Git, antes utilizava muito o GitHub desktop que fazia quase tudo que o  Git, mas senti que me prejudicava em ser mais livre na hora de organizar meus projetos . 
 
 Minha experiência com o TypeScript:
+
 Estou amando estudar TYpeScript, minha maiorexperiência e conhecimento é copm o JavaScript, então consigo perceber os benefícios que são introduzidos com essa tecnologia. Ansioso pra aprender amis sobre o TypeScript e desenvolver os meus projetos baseados em JavaScript nessa linguagem. 
 
 Diferença de métodos entre JavaScript e TypeScript:
