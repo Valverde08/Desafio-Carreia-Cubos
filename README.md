@@ -1,7 +1,8 @@
 ## Desafio-Carreira-Cubos
 Nesse repositório consta a minha trajetória no curso da Cubos Academy
 
-Módulo 1 
+Assuntos do Módulo 1 
+O que já sei:
 
  
 
@@ -9,9 +10,11 @@ Soft skills
 
 Soft skills são tão essenciais como as habilidades técnicas, elas que nos permitem nosso crescimento interpessoais, como nós lidamos com a pressão e o trabalho em grupo. Saber quais os seus pontos negativos e positivos em importante para a melhoras de tais quesitos, o que nos permitirá evoluir como profissionais e como pessoa. 
 
-Minhas habilidades interpessoais são bem desenvolvidas e bem aceitas para trabalhos em grupo devido a minha experiência em trabalho ao público e equipes grandes multiculturais. Sou uma pessoa que muito atenciosa e que aprende com muita facilidade, muita facilidade em interagir com meus colegas e muito prestativo. Sempre busco em experiências atuais e futuras fazer o meu melhor deixando o meu trabalho como referência. 
+
 
 LinkedIn 
+
+Esta é uma ferramenta essencial em nosso dia dia, não somente para a aquisição de nova oportunidade e network, mas também para compartilhamento de nova experiências não há rede social melhor que o LinkedIn.
 
 Abaixo conta o link para o emu LinkedIn, para quem tenha interesse possa ver as minhas habilidades. E se for de interesse não hesite em solicitar uma conexão para que possamos interagir e evoluir juntos. 
 
@@ -62,3 +65,19 @@ Todos métodos para que utilizamos para manipular strings retorna uma nova strin
 Métodos para  Arrays 
 
 Assim como os métodos para string os métodos para arrays permitem uma interação maior com o código sendo mais eficiente. Permite que trabalhemos com essa integração que acontece nos arrays que permitem a inserção de mais de um tipo de variável, aumentando a complexidade. 
+
+O que preciso melhorar:
+
+Soft skills:
+Minhas habilidades interpessoais são bem desenvolvidas e bem aceitas para trabalhos em grupo devido a minha experiência em trabalho ao público e equipes grandes multiculturais. Sou uma pessoa que muito atenciosa e que aprende com muita facilidade, muita facilidade em interagir com meus colegas e muito prestativo. Sempre busco em experiências atuais e futuras fazer o meu melhor deixando o meu trabalho como referência.  
+
+LIinkedIn:
+Sei o básico e preciso evouluir muito, na divulgação de minha experiências ideias e projetos. E isso sei que o curso da Cubos me permitirá crescer para alcançar os meus objetivos e ser uma pessoa e profissional melhor.
+
+Ética na tecnologia:
+Apesar de possuir muita experiência no mercado de trabalho em geral, sou muito inexperiente no setor da tecnologia, pois tive poucos projetos profissionais e um auxílio da cubos permitiria que eu seja um profissional qualificado e que não infringisse nenhuma lei ou termos técnicos que possam manchar a minha imagem profissional. 
+
+Gestão de tempo:
+Relacionado a gestão de tempo preciso me policiar e entender melhor meus horários mais produtivos, o que me torna mais ou menos produtivo para fazer um cronograma que permita o meu crescimento na área tecnológica e pessoal. 
+
+
