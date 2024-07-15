@@ -80,4 +80,14 @@ Apesar de possuir muita experiência no mercado de trabalho em geral, sou muito 
 Gestão de tempo:
 Relacionado a gestão de tempo preciso me policiar e entender melhor meus horários mais produtivos, o que me torna mais ou menos produtivo para fazer um cronograma que permita o meu crescimento na área tecnológica e pessoal. 
 
+Git:
+Desde o começo do curso tive uma melhora imensa na utilização do Git, antes utilizava muito o GitHub desktop que fazia quase tudo que o  Git, mas senti que me prejudicava em ser mais livre na hora de organizar meus projetos . 
+
+Minha experiência com o TypeScript:
+Estou amando estudar TYpeScript, minha maiorexperiência e conhecimento é copm o JavaScript, então consigo perceber os benefícios que são introduzidos com essa tecnologia. Ansioso pra aprender amis sobre o TypeScript e desenvolver os meus projetos baseados em JavaScript nessa linguagem. 
+
+Diferença de métodos entre JavaScript e TypeScript:
+
+Ainda me econtro com uma leve de dificuldade de entender como o TypeScript funciona, depois de me preoucupar pouco em definir tipos e saídas isso ainda me atrapalha um pouco, além de que pesquisando apredndi que nem todos os métodos do JavaScript funcionan no TypeScript o que no começo me deixou um pouco chatedo, mas com o tempo e as com as dúvidas que serão sanadas ao decorrer do curso tudo ocorrerá normalmente.
+
 
