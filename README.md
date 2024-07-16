@@ -96,4 +96,6 @@ Diferença de métodos entre JavaScript e TypeScript:
 
 Ainda me econtro com uma leve de dificuldade de entender como o TypeScript funciona, depois de me preoucupar pouco em definir tipos e saídas isso ainda me atrapalha um pouco, além de que pesquisando apredndi que nem todos os métodos do JavaScript funcionan no TypeScript o que no começo me deixou um pouco chatedo, mas com o tempo e as com as dúvidas que serão sanadas ao decorrer do curso tudo ocorrerá normalmente.
 
+Minah evolução, o que aprendi e espero melhorar:
+
 
